@@ -67,7 +67,7 @@ const projects: Project[] = [
   stack: ['JavaScript', 'HTML', 'CSS'],
   image: 'projecth-ecommerce.jpg',
   detail: 'Designed around a luxury watch brand, HALDEN combines immersive product visuals, interactive watch inspection, collection browsing, and shopping cart interactions in a refined responsive experience.',
-  liveUrl: 'https://bashirhashim330-fx.github.io/Halden-site/#/',
+  liveUrl: 'https://bashdev01.github.io/Halden-site/#/',
 },
   {
     title: 'Study Flow',
@@ -85,7 +85,7 @@ const projects: Project[] = [
     stack: ['React', 'Charts', 'Figma'],
     image: 'project-ckcapital.jpg',
     detail: 'Green and red are reserved strictly for gains and losses; a single accent handles everything else, so account performance reads in the first two seconds.',
-    liveUrl: 'https://bashirhashim330-fx.github.io/CK-WEB/',
+    liveUrl: 'https://bashdev01.github.io/CK-WEB/',
   },
   {
     title: 'Captrix',
@@ -94,7 +94,7 @@ const projects: Project[] = [
     stack: ['HTML', 'JavaScript', 'CSS'],
     image: 'project-captrix.jpg',
     detail: 'Run like a client brief with an existing brand to respect — aligned decimals and consistent digit widths so rows can be scanned instead of read.',
-    liveUrl: 'https://bashirhashim330-fx.github.io/Captrix-web/',
+    liveUrl: 'https://bashdev01.github.io/Captrix-web/',
   },
 ]
 
